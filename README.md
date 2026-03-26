@@ -23,15 +23,17 @@ It is intended as a learning project to practice Flask routing, form handling, t
 
 ## Project Structure
 
+```text
 flask-transcation-web-app/
 ├── app.py
 ├── requirements.txt
 ├── .gitignore
 └── templates/
-├── transactions.html
-├── form.html
-├── edit.html
-└── search.html
+    ├── transactions.html
+    ├── form.html
+    ├── edit.html
+    └── search.html
+```
 
 ## How It Works
 
